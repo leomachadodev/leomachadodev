@@ -35,11 +35,14 @@ Do zero ao deploy — com IA, propósito e velocidade.
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [CorretorPRO-IA](https://github.com/leomachadodev/CorretorPRO-IA) | Corretor imobiliário com IA | HTML, Claude API |
-| [ScoutIQ Engine](https://github.com/leomachadodev/ScoutIQengine) | Motor de inteligência para prospecção | HTML |
-| [Sites-Dentistas](https://github.com/leomachadodev/Sites-Dentistas) | Landing pages para clínicas odontológicas | HTML |
-| [PALNLY](https://github.com/leomachadodev/planly) | Planejamento com deploy no Vercel | HTML |
+| [Planly](https://github.com/leomachadodev/planly) | Planejamento com deploy no Vercel | HTML |
 | [Vitrine App](https://github.com/leomachadodev/vitrine-app) | Vitrine digital de produtos | HTML |
+| [Quiz](https://github.com/leomachadodev/quiz) | Aplicação de quiz interativo | HTML |
+| [Decodex](https://github.com/leomachadodev/decodex) | Decodificador de dados | HTML |
+| [OS Financeiro](https://github.com/leomachadodev/os-financeiro) | Sistema de ordem de serviço financeiro | HTML |
+| [Leo OS](https://github.com/leomachadodev/leo-os) | Sistema operacional pessoal | HTML |
+| [Oracle App](https://github.com/leomachadodev/oracle-app) | Aplicação Oracle | HTML |
+| [Sites Dentistas](https://github.com/leomachadodev/Sites-Dentistas) | Landing pages para clínicas odontológicas | HTML |
 
 ---
 
