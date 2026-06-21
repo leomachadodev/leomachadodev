@@ -70,29 +70,26 @@ Construção de SaaS
 ---
 Serviços
 
-Product Discovery
-
+**Product Discovery
 Pesquisa, identificação de problemas, oportunidades e definição de hipóteses.
 
-Product Strategy
-
+**Product Strategy
 Estruturação de visão de produto, posicionamento e roadmap.
 
-UX para Produtos Digitais
-
+**UX para Produtos Digitais
 Arquitetura da informação, jornadas e fluxos centrados no usuário.
 
-MVP Design
-
+**MVP Design
 Estruturação e validação de produtos digitais antes do desenvolvimento.
 
-AI Automation
-
+**AI Automation
 Automação de processos utilizando IA, N8N, Make e integrações.
 
-AI Product Building
-
+**AI Product Building
 Construção de produtos digitais modernos utilizando IA e plataformas low-code.
+
+---
+
 <div align="center">
 
 *"Real products. Real users. Real results."*
