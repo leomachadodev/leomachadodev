@@ -54,40 +54,47 @@ Da descoberta ao lançamento — transformando oportunidades em produtos digitai
 
 ---
   
-- Especialidades
-  
-**Product Discovery
-**Product Strategy
-**Product Ownership
-**UX para Produtos Digitais
-**Arquitetura de Produto
-**User Flows
-**MVP Design
-**Validação de Produto
-**Automação com IA
-**Vibe Coding
-**Construção de SaaS
+## 🚀 Especialidades
+
+- **Product Discovery**
+- **Product Strategy**
+- **Product Ownership**
+- **UX para Produtos Digitais**
+- **Arquitetura de Produto**
+- **User Flows**
+- **MVP Design**
+- **Validação de Produto**
+- **Automação com IA**
+- **Vibe Coding**
+- **Construção de SaaS**
 
 ---
-Serviços
 
-**Product Discovery
-**Pesquisa, identificação de problemas, oportunidades e definição de hipóteses.
+## 💼 Serviços
 
-**Product Strategy
-**Estruturação de visão de produto, posicionamento e roadmap.
+### Product Discovery
 
-**UX para Produtos Digitais
-**Arquitetura da informação, jornadas e fluxos centrados no usuário.
+Pesquisa, identificação de problemas, oportunidades e definição de hipóteses.
 
-**MVP Design
-**Estruturação e validação de produtos digitais antes do desenvolvimento.
+### Product Strategy
 
-**AI Automation
-**Automação de processos utilizando IA, N8N, Make e integrações.
+Estruturação de visão de produto, posicionamento e roadmap.
 
-**AI Product Building
-**Construção de produtos digitais modernos utilizando IA e plataformas low-code.
+### UX para Produtos Digitais
+
+Arquitetura da informação, jornadas e fluxos centrados no usuário.
+
+### MVP Design
+
+Estruturação e validação de produtos digitais antes do desenvolvimento.
+
+### AI Automation
+
+Automação de processos utilizando IA, N8N, Make e integrações.
+
+### AI Product Building
+
+Construção de produtos digitais modernos utilizando IA e plataformas low-code.
 
 ---
 
