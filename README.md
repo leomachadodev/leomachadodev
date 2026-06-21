@@ -55,17 +55,18 @@ Da descoberta ao lançamento — transformando oportunidades em produtos digitai
 ---
   
 - Especialidades
-Product Discovery
-Product Strategy
-Product Ownership
-UX para Produtos Digitais
-Arquitetura de Produto
-User Flows
-MVP Design
-Validação de Produto
-Automação com IA
-Vibe Coding
-Construção de SaaS
+  
+*Product Discovery
+*Product Strategy
+*Product Ownership
+*UX para Produtos Digitais
+*Arquitetura de Produto
+*User Flows
+*MVP Design
+*Validação de Produto
+*Automação com IA
+*Vibe Coding
+*Construção de SaaS
 
 ---
 Serviços
