@@ -3,7 +3,7 @@
 # Leonardo Machado
 ### AI Product Builder
 
-**AI Product Builder · Product Owner · Product Discovery · UX orientado a Produto**
+**· Product Owner · Product Discovery · UX orientado a Produto**
 
 Da descoberta ao lançamento — transformando oportunidades em produtos digitais através de estratégia, validação, experiência do usuário e inteligência artificial..
 
