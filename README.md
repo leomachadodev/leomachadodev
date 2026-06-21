@@ -3,10 +3,9 @@
 # Leonardo Machado
 ### AI Product Builder
 
-**MVPs · Functional UX · Applied Automation**
+**AI Product Builder · Product Owner · Product Discovery · UX orientado a Produto**
 
-Construo produtos digitais completos usando **Lovable**, **Supabase**, **n8n**, **Claude API** e **Evolution API**.  
-Do zero ao deploy — com IA, propósito e velocidade.
+Da descoberta ao lançamento — transformando oportunidades em produtos digitais através de estratégia, validação, experiência do usuário e inteligência artificial..
 
 ---
 
