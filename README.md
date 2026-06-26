@@ -1,11 +1,9 @@
-<div align="center">
-
 # Leonardo Machado
-### AI Product Builder
 
-**· Product Owner · Product Discovery · UX orientado a Produto**
+## AI Product Builder | Product Manager | Product Owner
 
-Da descoberta ao lançamento — transformando oportunidades em produtos digitais através de estratégia, validação, experiência do usuário e inteligência artificial..
+Especializado na concepção e desenvolvimento de produtos digitais, conduzindo todo o ciclo de desenvolvimento através de Product Discovery, Product Strategy, UX Research, definição da arquitetura do produto e evolução contínua das soluções desenvolvidas.
+
 
 ---
 
@@ -17,86 +15,91 @@ Da descoberta ao lançamento — transformando oportunidades em produtos digitai
 
 ---
 
-## 🛠️ Stack
+**Product Discovery • Product Strategy • Product Management • Product Architecture • UX Research • Product Design** 
 
-![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square)
-![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square)
-![Evolution API](https://img.shields.io/badge/Evolution_API-25D366?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+# Sobre Mim
 
----
+Sou um profissional de Produto apaixonado por transformar problemas complexos em soluções digitais que gerem valor para usuários e negócios.
 
-## 🚀 Projetos em Destaque
+Meu trabalho começa muito antes da construção de um produto. Acredito que decisões de produto devem ser fundamentadas na compreensão do problema, na validação de hipóteses e na definição de uma estratégia clara antes da implementação.
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Planly](https://github.com/leomachadodev/planly) | Planejamento com deploy no Vercel | HTML |
-| [Vitrine App](https://github.com/leomachadodev/vitrine-app) | Vitrine digital de produtos | HTML |
-| [Quiz](https://github.com/leomachadodev/quiz) | Aplicação de quiz interativo | HTML |
-| [Decodex](https://github.com/leomachadodev/decodex) | Decodificador de dados | HTML |
-| [OS Financeiro](https://github.com/leomachadodev/os-financeiro) | Sistema de ordem de serviço financeiro | HTML |
-| [Leo OS](https://github.com/leomachadodev/leo-os) | Sistema operacional pessoal | HTML |
-| [Oracle App](https://github.com/leomachadodev/oracle-app) | Aplicação Oracle | HTML |
-| [Sites Dentistas](https://github.com/leomachadodev/Sites-Dentistas) | Landing pages para clínicas odontológicas | HTML |
+Ao longo desse processo, atuo desde o Product Discovery até a evolução contínua do produto, estruturando pesquisas, estratégias, arquitetura de produto, experiência do usuário, documentação, definição de requisitos e construção incremental de soluções digitais.
 
----
+A Inteligência Artificial faz parte desse processo como uma ferramenta para acelerar análises, prototipação, documentação e desenvolvimento, sempre apoiando a tomada de decisão, e não substituindo o pensamento estratégico.
 
-## 💡 O que eu construo
 
-- **MVPs rápidos** — do conceito ao ar em dias
-- **Automações inteligentes** — fluxos n8n + IA
-- **Produtos com IA aplicada** — Claude, GPT, Evolution API
-- **Interfaces funcionais** — UX real para usuários reais
+# AI Product Framework
 
----
-  
-## 🚀 Especialidades
+Este repositório reúne o framework proprietário que utilizo para estruturar o desenvolvimento de produtos digitais de ponta a ponta.
 
-- **Product Discovery**
-- **Product Strategy**
-- **Product Ownership**
-- **UX para Produtos Digitais**
-- **Arquitetura de Produto**
-- **User Flows**
-- **MVP Design**
-- **Validação de Produto**
-- **Automação com IA**
-- **Vibe Coding**
-- **Construção de SaaS**
+O processo está organizado em sete etapas que representam todo o ciclo de desenvolvimento de um produto.
+
+- Product Discovery
+- Product Strategy
+- Product Architecture
+- UX
+- Product
+- Build
+- Growth
+
+➡️ **[Explorar o Framework](./Framework/)**
 
 ---
 
-## 💼 Serviços
+# Product Cases
 
-### Product Discovery
+Além do framework, este repositório apresenta estudos de caso desenvolvidos durante a construção de produtos digitais reais.
 
-Pesquisa, identificação de problemas, oportunidades e definição de hipóteses.
+Cada projeto documenta todo o processo de desenvolvimento, desde a identificação do problema até a evolução contínua do produto.
 
-### Product Strategy
+## ScoutIQ
 
-Estruturação de visão de produto, posicionamento e roadmap.
+Plataforma para gestão da evolução esportiva de atletas, centralizando avaliações técnicas, estatísticas, histórico esportivo, scouts, registros de partidas e indicadores de desempenho.
 
-### UX para Produtos Digitais
-
-Arquitetura da informação, jornadas e fluxos centrados no usuário.
-
-### MVP Design
-
-Estruturação e validação de produtos digitais antes do desenvolvimento.
-
-### AI Automation
-
-Automação de processos utilizando IA, N8N, Make e integrações.
-
-### AI Product Building
-
-Construção de produtos digitais modernos utilizando IA e plataformas low-code.
+➡️ **[ScoutIQ](./Product%20Cases/ScoutIQ/)**
 
 ---
+
+## LeadForge
+
+Plataforma de prospecção comercial inteligente, estruturada para automatizar processos de vendas utilizando Inteligência Artificial, CRM, automações e agentes especializados.
+
+➡️ **[LeadForge](./Product%20Cases/LeadForge/)**
+
+---
+
+# Competências
+
+- Product Discovery
+- Product Strategy
+- Product Management
+- Product Architecture
+- UX Research
+- Product Design
+- Product Documentation
+- MVP Definition
+- Requirements Engineering
+- Artificial Intelligence aplicada a Produtos
+- Business Analysis
+
+---
+
+## 🛠️ Stack & Ferramentas
+
+![Lovable](https://img.shields.io/badge/Lovable-FF4D6D?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
+
+---
+*"Bons produtos começam pela compreensão do problema.
+ A tecnologia potencializa a solução,
+  mas não substitui a estratégia."
 
 <div align="center">
 
