@@ -2,10 +2,11 @@
 
 ## AI Product Builder | Product Manager | Product Owner
 
+> *"Real products. Real users. Real results."*
+
 Especializado na concepção e desenvolvimento de produtos digitais, conduzindo todo o ciclo de desenvolvimento através de Product Discovery, Product Strategy, UX Research, definição da arquitetura do produto e evolução contínua das soluções desenvolvidas.
 
-
----
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfólio-000000?style=for-the-badge)](https://leonardo-machado-portfolio.webflow.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomachado-dev/)
@@ -15,7 +16,9 @@ Especializado na concepção e desenvolvimento de produtos digitais, conduzindo 
 
 ---
 
-**Product Discovery • Product Strategy • Product Management • Product Architecture • UX Research • Product Design** 
+**Product Discovery • Product Strategy • Product Management • Product Architecture • UX Research • Product Design**
+
+---
 
 # Sobre Mim
 
@@ -23,40 +26,39 @@ Sou um profissional de Produto apaixonado por transformar problemas complexos em
 
 Meu trabalho começa muito antes da construção de um produto. Acredito que decisões de produto devem ser fundamentadas na compreensão do problema, na validação de hipóteses e na definição de uma estratégia clara antes da implementação.
 
-Ao longo desse processo, atuo desde o Product Discovery até a evolução contínua do produto, estruturando pesquisas, estratégias, arquitetura de produto, experiência do usuário, documentação, definição de requisitos e construção incremental de soluções digitais.
+A Inteligência Artificial faz parte desse processo como uma ferramenta para acelerar análises, prototipação, documentação e desenvolvimento — sempre apoiando a tomada de decisão, e não substituindo o pensamento estratégico.
 
-A Inteligência Artificial faz parte desse processo como uma ferramenta para acelerar análises, prototipação, documentação e desenvolvimento, sempre apoiando a tomada de decisão, e não substituindo o pensamento estratégico.
-
+---
 
 # AI Product Framework
 
-Este repositório reúne o framework proprietário que utilizo para estruturar o desenvolvimento de produtos digitais de ponta a ponta.
+Framework proprietário que utilizo para estruturar o desenvolvimento de produtos digitais de ponta a ponta — sete etapas, do problema ao produto.
 
-O processo está organizado em sete etapas que representam todo o ciclo de desenvolvimento de um produto.
+| Etapa | Descrição |
+|-------|-----------|
+| 01 · Discovery | Validar se o problema é real antes de construir |
+| 02 · Strategy | Transformar o problema em produto |
+| 03 · Architecture | Definir a estrutura técnica e funcional do produto |
+| 04 · UX | Mapear fluxos e experiência do usuário |
+| 05 · Product | Definir requisitos e documentar |
+| 06 · Build | Construir e iterar |
+| 07 · Growth | Validar, evoluir e escalar o produto |
 
-- Product Discovery
-- Product Strategy
-- Product Architecture
-- UX
-- Product
-- Build
-- Growth
-
-➡️ **[Explorar o Framework](./Framework/)**
+➡️ **[Explorar o Framework](https://github.com/leomachadodev/ai-product-portfolio/tree/main/Framework)**
 
 ---
 
 # Product Cases
 
-Além do framework, este repositório apresenta estudos de caso desenvolvidos durante a construção de produtos digitais reais.
-
-Cada projeto documenta todo o processo de desenvolvimento, desde a identificação do problema até a evolução contínua do produto.
+Estudos de caso desenvolvidos durante a construção de produtos digitais reais. Cada projeto documenta todo o processo — da identificação do problema à evolução contínua do produto.
 
 ## ScoutIQ
 
 Plataforma para gestão da evolução esportiva de atletas, centralizando avaliações técnicas, estatísticas, histórico esportivo, scouts, registros de partidas e indicadores de desempenho.
 
-➡️ **[ScoutIQ](./Product%20Cases/ScoutIQ/)**
+**46 atletas e 34 scouts cadastrados.**
+
+➡️ **[Ver Case ScoutIQ](https://github.com/leomachadodev/ai-product-portfolio/tree/main/Product%20Cases/ScoutIQ)**
 
 ---
 
@@ -64,7 +66,7 @@ Plataforma para gestão da evolução esportiva de atletas, centralizando avalia
 
 Plataforma de prospecção comercial inteligente, estruturada para automatizar processos de vendas utilizando Inteligência Artificial, CRM, automações e agentes especializados.
 
-➡️ **[LeadForge](./Product%20Cases/LeadForge/)**
+➡️ **[Ver Case LeadForge](https://github.com/leomachadodev/ai-product-portfolio/tree/main/Product%20Cases/LeadForge)**
 
 ---
 
@@ -76,9 +78,7 @@ Plataforma de prospecção comercial inteligente, estruturada para automatizar p
 - Product Architecture
 - UX Research
 - Product Design
-- Product Documentation
 - MVP Definition
-- Requirements Engineering
 - Artificial Intelligence aplicada a Produtos
 - Business Analysis
 
@@ -96,15 +96,13 @@ Plataforma de prospecção comercial inteligente, estruturada para automatizar p
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 ---
-*"Bons produtos começam pela compreensão do problema.
- A tecnologia potencializa a solução,
-  mas não substitui a estratégia."
 
 <div align="center">
 
-*"Real products. Real users. Real results."*
+*"Bons produtos começam pela compreensão do problema.*
+*A tecnologia potencializa a solução, mas não substitui a estratégia."*
 
-**Vamos construir algo juntos?**  
+**Vamos construir algo juntos?**
 📧 leomachadodev@gmail.com
 
 </div>
