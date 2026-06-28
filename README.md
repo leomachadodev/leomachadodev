@@ -1,6 +1,6 @@
 # Leonardo Machado
 
-## AI Product Builder | Product Manager | Product Owner
+## Product Manager | 0→1 | AI-powered Products | Discovery to Launch
 
 > *"Real products. Real users. Real results."*
 
