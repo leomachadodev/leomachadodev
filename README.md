@@ -1,117 +1,199 @@
-# Leonardo Machado
+# 👋 Leonardo Machado
 
-### AI Product Manager | AI Product Builder | 0→1 SaaS | Product Discovery → Launch | UX Strategy
+### AI Product Manager | Product Builder | 0→1 SaaS | Product Discovery → Launch
 
 > "Produto começa antes do código: discovery, não achismo."
 
-Especializado na concepção e desenvolvimento de produtos digitais, conduzindo todo o ciclo através de Product Discovery, Product Strategy, UX Research, definição da arquitetura do produto e evolução contínua das soluções desenvolvidas.
+---
 
-[![Portfólio](https://img.shields.io/badge/●_PORTFÓLIO-000000?style=for-the-badge)](https://leonardo-machado-portfolio.webflow.io/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leomachado-dev)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leomachadodev@gmail.com)
+## 🎯 About Me
 
-`247 contribuições em 2026` · `37 repositórios` · `2 produtos em produção + 8 em construção`
+Profissional de Produto especializado na transformação de problemas complexos em soluções digitais de impacto. Meu trabalho começa na **Discovery** — validando problemas reais antes de qualquer linha de código.
+
+- 🚀 **2 produtos em produção** (ScoutIQ · LeadForge) + **8 em construção**
+- 🎓 Formação em UX, Product Management e AI Product Building
+- 🧠 7 anos de experiência em gestão (escola de futebol → insights para ScoutIQ)
+- 🤖 IA como ferramenta para acelerar análise, prototipação e desenvolvimento
+- 💡 Especialista em Product Discovery, Strategy, Architecture e UX Research
+
+**Minha metodologia:** Problema → Validação → Estratégia → Arquitetura → UX → Build → Growth
 
 ---
 
-`Product Discovery` `Product Strategy` `Product Management` `Product Architecture` `UX Research` `Product Design`
+## 🔗 Connect With Me
 
-## Sobre Mim
+[![Portfólio](https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge)](https://leonardo-machado-portfolio.webflow.io/)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leomachado-dev)
+[![Email](https://img.shields.io/badge/✉️_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leomachadodev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/💬_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55)
 
-Sou um profissional de Produto apaixonado por transformar problemas complexos em soluções digitais que geram valor para usuários e negócios.
+---
 
-Meu trabalho começa muito antes da construção de um produto. Acredito que decisões de produto devem ser fundamentadas na compreensão do problema, na validação de hipóteses e na definição de uma estratégia clara antes da implementação.
+## 📊 Stats
 
-A Inteligência Artificial faz parte desse processo como uma ferramenta para acelerar análises, prototipação, documentação e desenvolvimento — sempre apoiando a tomada de decisão, e não substituindo o pensamento estratégico.
+- **247** contribuições em 2026
+- **37** repositórios públicos
+- **2** produtos em produção
+- **8** produtos em desenvolvimento/evolução
 
-Antes de construir produtos digitais, passei 7 anos gerindo uma escola de futebol infantojuvenil — foi essa vivência que originou a hipótese por trás do ScoutIQ. Não venho de uma formação tradicional em Ciência da Computação — construí meu repertório técnico de forma intencional: certificações em Product Management, UX Design, Arquitetura de Produto e IA aplicada, validadas na prática em 10 produtos construídos do zero. Cada decisão técnica que tomo passa por essa dupla checagem — teoria estruturada e execução real — antes de entrar no roadmap.
+---
 
-## Certificações
+## 🛠️ My Stack
 
-| Certificado | Instituição | Carga horária |
+### Ferramentas de Produto
+![Lovable](https://img.shields.io/badge/Lovable-FF3366?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+### Desenvolvimento
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### AI & Automation
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📌 Pinned Projects
+
+### 🎯 **ScoutIQ** — Em Funcionamento
+Plataforma de gestão da evolução esportiva de atletas. Centraliza avaliações técnicas, estatísticas, scouts, registros de partidas e indicadores de desempenho.
+
+**📊 Métricas:** 46 atletas · 34 scouts cadastrados
+
+`Product Discovery` `Product Strategy` `UX Research` `Product Architecture`
+
+[Ver Case](#) | [Acessar Plataforma](#)
+
+---
+
+### 💼 **LeadForge** — Em Funcionamento
+Plataforma de prospecção comercial com IA. Automatiza processos de vendas através de CRM inteligente, automações avançadas e agentes especializados.
+
+**🚀 Modelo:** SaaS B2B
+
+`AI Integration` `Sales Automation` `Product Management`
+
+[Ver Case](#) | [Acessar Plataforma](#)
+
+---
+
+## 🎓 Certificações & Formação
+
+| Certificado | Instituição | Carga Horária |
 |---|---|---|
-| Nano Course User Experience | FIAP | 60h |
-| Riachuelo — Criando Produtos com IA | Riachuelo / DIO | 35h |
-| Product Design: Da Colaboração à Estratégia | TheStarter | 15h |
-| AI Builder com Lovable | DIO | 10h |
-| Product Management: Design e Lançamento de Produtos Digitais | Santander Open Academy | 6h |
-| Fundamentos de Arquitetura de User Experience (UX) | DIO | 6h |
-| Introdução ao UX Design | DIO | 3h |
+| **Nano Course User Experience** | FIAP | 60h |
+| **Riachuelo — Criando Produtos com IA** | Riachuelo / DIO | 35h |
+| **Product Design: Da Colaboração à Estratégia** | TheStarter | 15h |
+| **AI Builder com Lovable** | DIO | 10h |
+| **Product Management: Design e Lançamento** | Santander Open Academy | 6h |
+| **Arquitetura de User Experience (UX)** | DIO | 6h |
+| **Introdução ao UX Design** | DIO | 3h |
 
-## AI Product Framework
+---
 
-Framework proprietário que utilizo para estruturar o desenvolvimento de produtos digitais de ponta a ponta — sete etapas, do problema ao produto.
+## 🎨 AI Product Framework
 
-| Etapa | Descrição |
-|---|---|
-| 01 · Discovery | Validar se o problema é real antes de construir |
-| 02 · Strategy | Transformar o problema em produto |
-| 03 · Architecture | Definir a estrutura técnica e funcional do produto |
-| 04 · UX | Mapear fluxos e experiência do usuário |
-| 05 · Product | Definir requisitos e documentar |
-| 06 · Build | Construir e iterar |
-| 07 · Growth | Validar, evoluir e escalar o produto |
+Framework proprietário para estruturar desenvolvimento de produtos digitais — **7 etapas, do problema ao produto.**
 
-[📎 Explorar o Framework](#)
+| # | Etapa | Descrição |
+|---|---|---|
+| 01 | **Discovery** | Validar se o problema é real antes de construir |
+| 02 | **Strategy** | Transformar o problema em oportunidade de produto |
+| 03 | **Architecture** | Definir estrutura técnica e funcional |
+| 04 | **UX** | Mapear fluxos e experiência do usuário |
+| 05 | **Product** | Definir requisitos, documentar e prototipizar |
+| 06 | **Build** | Construir, testar e iterar |
+| 07 | **Growth** | Validar, evoluir e escalar |
 
-## Product Cases
+---
 
-Estudos de caso desenvolvidos durante a construção de produtos digitais reais. Cada projeto documenta todo o processo — da identificação do problema à evolução contínua do produto.
-
-### ScoutIQ — em funcionamento
-Plataforma para gestão da evolução esportiva de atletas, centralizando avaliações técnicas, estatísticas, histórico esportivo, scouts, registros de partidas e indicadores de desempenho.
-
-**46 atletas e 34 scouts cadastrados.**
-
-[📎 Ver Case ScoutIQ](#)
-
-### LeadForge — em funcionamento
-Plataforma de prospecção comercial inteligente, estruturada para automatizar processos de vendas utilizando Inteligência Artificial, CRM, automações e agentes especializados. Modelo comercial definido (planos Pro e Agency, white-label); em evolução para agregar novas funcionalidades e resolver gargalos existentes.
-
-[📎 Ver Case LeadForge](#)
-
-### Outros produtos em construção ou evolução
-+ 8 produtos em construção ou evolução, do financeiro ao veterinário — Oracle, VetApp, BrainBox, MoneyPilot AI, Nutri App, Piuba, Organizador de Viagens e uma ferramenta de análise de risco de golpes.
+## 🚀 Produtos em Desenvolvimento
 
 <details>
-<summary>Ver todos os 8 projetos</summary>
+<summary><b>8 Projetos em Construção/Evolução</b> (Clique para expandir)</summary>
 
-- **Oracle** (Autopilot + Black Elite) — plataforma de 22 agentes de IA para automação de marketing; estrutura pronta, ajustes em andamento
-- **VetApp** — SaaS de gestão para clínicas veterinárias, com infraestrutura white-label; passando por mudanças estruturais
-- **BrainBox** — Workspace OS pessoal que organiza ferramentas e recursos em Spaces, no lugar de dezenas de abas do navegador; em funcionamento
-- **MoneyPilot AI** — consultor financeiro pessoal com IA (dashboard, metas, chat com consultor, insights automáticos)
-- **Nutri App** — assistente de nutrição, ainda em evolução
-- **Piuba** — portal de serviços de bairro via WhatsApp
-- **Organizador de Viagens** — organiza o caos de informações de uma viagem em um plano único (PRDs em estruturação)
-- **Threat Intel Cidadão** — ferramenta de análise de risco de remetente para detecção de golpes/phishing, voltada ao público 50+ (em progresso)
+- **Oracle** — Plataforma com 22 agentes de IA para automação de marketing
+- **VetApp** — SaaS de gestão para clínicas veterinárias (white-label)
+- **BrainBox** — Workspace OS pessoal com Spaces
+- **MoneyPilot AI** — Consultor financeiro pessoal com IA
+- **Nutri App** — Assistente de nutrição inteligente
+- **Piuba** — Portal de serviços de bairro via WhatsApp
+- **Organizador de Viagens** — Centralizador de informações de viagem
+- **Threat Intel Cidadão** — Análise de risco para detectar golpes/phishing
 
 </details>
 
-## Competências de Produto
+---
 
-- Product Discovery
-- Product Strategy
-- Product Management
-- Product Architecture
-- UX Research
-- Product Design
-- MVP Definition
-- Inteligência Artificial aplicada a Produtos
+## 💡 Core Competencies
+
+**Product Expertise**
+- Product Discovery & Validation
+- Product Strategy & Roadmapping
+- Product Management & Ownership
+- Product Architecture & Design
+- UX Research & Design Thinking
+- MVP Definition & Launch
+- AI Product Building
+
+**Business Skills**
 - Business Analysis
-
-## 🛠️ Stack Técnica
-
-![Lovable](https://img.shields.io/badge/LOVABLE-FF3366?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![ChatGPT](https://img.shields.io/badge/CHATGPT-74AA9C?style=for-the-badge)
-![Claude](https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/GEMINI-4285F4?style=for-the-badge)
+- Market Research
+- Go-to-Market Strategy
+- Stakeholder Management
 
 ---
 
-> "Bons produtos começam pela compreensão do problema. A tecnologia potencializa a solução, mas não substitui a estratégia."
+## 🔥 Philosophy
 
-**Vamos construir algo juntos?** 📧 [leomachadodev@gmail.com](mailto:leomachadodev@gmail.com)
+> "Bons produtos começam pela compreensão profunda do problema. A tecnologia potencializa a solução, mas não substitui a estratégia e o design focado no usuário."
+
+Cada decisão de produto deve ser fundamentada em:
+- ✅ Validação de hipóteses
+- ✅ Pesquisa de usuários
+- ✅ Dados e métricas
+- ✅ Iteração contínua
+
+---
+
+## 📈 Activity Overview
+
+- **2026:** 247 contribuições
+- **Repositórios Públicos:** 37
+- **Produtos em Produção:** 2
+- **Produtos em Evolução:** 8+
+
+---
+
+## 🤝 Let's Build Together
+
+Estou sempre aberto para:
+- 💬 Conversas sobre Produto e Estratégia
+- 🚀 Colaborações em projetos de impacto
+- 🎯 Consultoria em Product Discovery
+
+**Vamos construir algo extraordinário?**
+
+📧 **Email:** [leomachadodev@gmail.com](mailto:leomachadodev@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/leomachado-dev](https://linkedin.com/in/leomachado-dev)  
+🌐 **Portfólio:** [leonardo-machado-portfolio.webflow.io](https://leonardo-machado-portfolio.webflow.io/)
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Leonardo Machado**
+
+`Product Discovery` `Product Strategy` `AI Products` `UX Research`
+
+</div>
