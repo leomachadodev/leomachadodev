@@ -1,3 +1,5 @@
+![Leonardo Machado Banner](https://github.com/leomachadodev/leomachadodev/raw/main/9127f5ed-3586-4a91-8378-01f83e3e0935.jfif)
+
 # 👋 Leonardo Machado
 
 ### AI Product Manager | Product Builder | 0→1 SaaS | Product Discovery → Launch
@@ -8,33 +10,21 @@
 
 ## 🎯 About Me
 
-Profissional de Produto especializado na transformação de problemas complexos em soluções digitais de impacto. Meu trabalho começa na **Discovery** — validando problemas reais antes de qualquer linha de código.
+Sou um profissional de Produto apaixonado por transformar problemas complexos em soluções digitais que geram valor para usuários e negócios.
 
-- 🚀 **2 produtos em produção** (ScoutIQ · LeadForge) + **8 em construção**
-- 🎓 Formação em UX, Product Management e AI Product Building
-- 🧠 7 anos de experiência em gestão (escola de futebol → insights para ScoutIQ)
-- 🤖 IA como ferramenta para acelerar análise, prototipação e desenvolvimento
-- 💡 Especialista em Product Discovery, Strategy, Architecture e UX Research
+Meu trabalho começa muito antes da construção de um produto. Acredito que decisões de produto devem ser fundamentadas na compreensão do problema, na validação de hipóteses e na definição clara do "porquê" antes do "como".
 
-**Minha metodologia:** Problema → Validação → Estratégia → Arquitetura → UX → Build → Growth
+A Inteligência Artificial faz parte desse processo como uma ferramenta para acelerar análises, prototipação, documentação e desenvolvimento — sempre apoiando a tomada de decisão, e não substituindo a estratégia.
 
----
+Antes de construir produtos digitais, passei 7 anos gerindo uma escola de futebol infantojuvenil — foi essa vivência que originou a hipótese por trás do ScoutIQ. Não venho de uma formação tradicional em tech, e essa bagagem multidisciplinar é um diferencial na forma como abordo problemas de produto.
 
-## 🔗 Connect With Me
-
-[![Portfólio](https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge)](https://leonardo-machado-portfolio.webflow.io/)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leomachado-dev)
-[![Email](https://img.shields.io/badge/✉️_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leomachadodev@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/💬_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55)
-
----
-
-## 📊 Stats
-
-- **247** contribuições em 2026
-- **37** repositórios públicos
-- **2** produtos em produção
-- **8** produtos em desenvolvimento/evolução
+**Especialidades:**
+- 🚀 Product Discovery & Validation
+- 📊 Product Strategy & Roadmapping
+- 🏗️ Product Architecture & Design
+- 🧠 UX Research & Design Thinking
+- 🤖 AI Product Building
+- 📱 SaaS 0→1 Development
 
 ---
 
@@ -92,6 +82,24 @@ Plataforma de gestão da evolução esportiva de atletas. Centraliza avaliaçõe
 **Status:** ⭐ Em produção
 
 [📖 Ver Repositório](#)
+
+---
+
+## 🔗 Connect With Me
+
+[![Portfólio](https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge)](https://leonardo-machado-portfolio.webflow.io/)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leomachado-dev)
+[![Email](https://img.shields.io/badge/✉️_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leomachadodev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/💬_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55)
+
+---
+
+## 📊 Stats
+
+- **247** contribuições em 2026
+- **37** repositórios públicos
+- **2** produtos em produção
+- **8** produtos em desenvolvimento/evolução
 
 ---
 
