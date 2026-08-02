@@ -38,6 +38,63 @@ Profissional de Produto especializado na transformação de problemas complexos 
 
 ---
 
+## 📌 Projetos em Destaque
+
+### 🧠 **[BrainBox](https://github.com/leomachadodev/brainbox-public-template)** — Workspace OS
+Personal Workspace OS para organizar ferramentas, recursos e conhecimento em Spaces. Substitui caos de abas por um ambiente estruturado e inteligente.
+
+**Stack:** React 19 · TypeScript · TanStack Start · Supabase  
+**Status:** 🚀 Em produção
+
+[📖 Ver Repositório](https://github.com/leomachadodev/brainbox-public-template) | [🌐 Acessar](https://brainbox.app)
+
+---
+
+### 🔮 **[Oracle](https://github.com/leomachadodev/oracle-pro)** — AI Marketing Automation
+Plataforma de automação de marketing com 22 agentes de IA especializados. Gerencia campanhas, leads, análises e otimizações inteligentes.
+
+**22 AI Agents:** Email · Social · Analytics · Strategy · Integration  
+**Stack:** Next.js · PostgreSQL · Claude API  
+**Status:** 🔨 Em estruturação
+
+[📖 Ver Repositório](https://github.com/leomachadodev/oracle-pro)
+
+---
+
+### 💰 **[MoneyPilot AI](https://github.com/leomachadodev/moneypilotbr)** — Financial Advisor
+Consultor financeiro pessoal com IA. Controla gastos, define metas e oferece recomendações inteligentes para saúde financeira.
+
+**Stack:** React · TanStack Start · Supabase · Claude API  
+**Status:** 💚 Em produção
+
+[📖 Ver Repositório](https://github.com/leomachadodev/moneypilotbr) | [🌐 Acessar](https://moneypilotbr.lovable.app)
+
+---
+
+### 📚 **[Product-Definition-Framework](https://github.com/leomachadodev/Product-Definition-Framework)** — Framework Proprietário
+Meu framework de 7 etapas para estruturar desenvolvimento de produtos digitais: Discovery → Strategy → Architecture → UX → Product → Build → Growth
+
+[📖 Ver Repositório](https://github.com/leomachadodev/Product-Definition-Framework)
+
+---
+
+### 🎓 **[Product-Manager-Playbook](https://github.com/leomachadodev/Product-Manager-Playbook)** — PM Guide
+Guia prático de Product Management com best practices, metodologias e frameworks para construir produtos de sucesso.
+
+[📖 Ver Repositório](https://github.com/leomachadodev/Product-Manager-Playbook)
+
+---
+
+### 🚀 **[ScoutIQ](https://github.com/leomachadodev/scoutiq)** — Sports Management SaaS
+Plataforma de gestão da evolução esportiva de atletas. Centraliza avaliações, estatísticas, scouts e indicadores de desempenho.
+
+**46 atletas · 34 scouts cadastrados**  
+**Status:** ⭐ Em produção
+
+[📖 Ver Repositório](#)
+
+---
+
 ## 🛠️ My Stack
 
 ### Ferramentas de Produto
@@ -60,30 +117,6 @@ Profissional de Produto especializado na transformação de problemas complexos 
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📌 Pinned Projects
-
-### 🎯 **ScoutIQ** — Em Funcionamento
-Plataforma de gestão da evolução esportiva de atletas. Centraliza avaliações técnicas, estatísticas, scouts, registros de partidas e indicadores de desempenho.
-
-**📊 Métricas:** 46 atletas · 34 scouts cadastrados
-
-`Product Discovery` `Product Strategy` `UX Research` `Product Architecture`
-
-[Ver Case](#) | [Acessar Plataforma](#)
-
----
-
-### 💼 **LeadForge** — Em Funcionamento
-Plataforma de prospecção comercial com IA. Automatiza processos de vendas através de CRM inteligente, automações avançadas e agentes especializados.
-
-**🚀 Modelo:** SaaS B2B
-
-`AI Integration` `Sales Automation` `Product Management`
-
-[Ver Case](#) | [Acessar Plataforma](#)
 
 ---
 
@@ -117,19 +150,19 @@ Framework proprietário para estruturar desenvolvimento de produtos digitais —
 
 ---
 
-## 🚀 Produtos em Desenvolvimento
+## 🚀 Outros Produtos em Desenvolvimento
 
 <details>
 <summary><b>8 Projetos em Construção/Evolução</b> (Clique para expandir)</summary>
 
-- **Oracle** — Plataforma com 22 agentes de IA para automação de marketing
 - **VetApp** — SaaS de gestão para clínicas veterinárias (white-label)
-- **BrainBox** — Workspace OS pessoal com Spaces
-- **MoneyPilot AI** — Consultor financeiro pessoal com IA
+- **BrainBox** — Workspace OS pessoal com Spaces (em produção)
+- **MoneyPilot AI** — Consultor financeiro pessoal com IA (em produção)
 - **Nutri App** — Assistente de nutrição inteligente
 - **Piuba** — Portal de serviços de bairro via WhatsApp
 - **Organizador de Viagens** — Centralizador de informações de viagem
 - **Threat Intel Cidadão** — Análise de risco para detectar golpes/phishing
+- **LeadForge** — Plataforma de prospecção comercial com IA
 
 </details>
 
@@ -166,15 +199,6 @@ Cada decisão de produto deve ser fundamentada em:
 
 ---
 
-## 📈 Activity Overview
-
-- **2026:** 247 contribuições
-- **Repositórios Públicos:** 37
-- **Produtos em Produção:** 2
-- **Produtos em Evolução:** 8+
-
----
-
 ## 🤝 Let's Build Together
 
 Estou sempre aberto para:
@@ -195,5 +219,11 @@ Estou sempre aberto para:
 **Made with ❤️ by Leonardo Machado**
 
 `Product Discovery` `Product Strategy` `AI Products` `UX Research`
+
+---
+
+![Commits](https://img.shields.io/badge/247%20commits-2026-brightgreen?style=flat-square)
+![Repos](https://img.shields.io/badge/37%20repositories-public-blue?style=flat-square)
+![Products](https://img.shields.io/badge/2%20in%20production%20%2B%208%20building-shipped-brightgreen?style=flat-square)
 
 </div>
