@@ -22,11 +22,51 @@ Especializado na concepção e desenvolvimento de produtos digitais, conduzindo 
 
 # Sobre Mim
 
-Sou um profissional de Produto apaixonado por transformar problemas complexos em soluções digitais que gerem valor para usuários e negócios.
+Construo produtos digitais do 0→1 combinando Product Management, IA, UX e estratégia de negócios.
 
-Meu trabalho começa muito antes da construção de um produto. Acredito que decisões de produto devem ser fundamentadas na compreensão do problema, na validação de hipóteses e na definição de uma estratégia clara antes da implementação.
 
-A Inteligência Artificial faz parte desse processo como uma ferramenta para acelerar análises, prototipação, documentação e desenvolvimento — sempre apoiando a tomada de decisão, e não substituindo o pensamento estratégico.
+
+.Atuo como AI Product Builder com forte atuação em Product Management. conduzindo todo o ciclo de desenvolvimento de produtos — da identificação do problema e Product Discovery até o lançamento e evolução contínua.
+
+
+
+Minha experiência une Marketing, UX, estratégia de produto e tecnologia para transformar problemas complexos em soluções digitais simples, escaláveis e centradas no usuário.
+
+
+
+Tenho experiência em:
+
+
+
+Product Discovery
+
+Product Strategy
+
+UX Research
+
+Arquitetura de Produto
+
+Definição de MVP
+
+Documentação de requisitos (PRDs)
+
+IA aplicada ao desenvolvimento de produtos
+
+Estratégia de SaaS
+
+Entre os produtos que venho desenvolvendo estão:
+
+
+• ScoutIQ — Plataforma para desenvolvimento e análise de desempenho esportivo.
+• LeadForge — SaaS de prospecção B2B com automação inteligente.
+• Oracle — Plataforma de agentes especializados em IA.
+• VetApp — Solução digital para o setor veterinário.
+
+
+Além do desenvolvimento dos produtos, criei um framework próprio de Product Management, utilizado para estruturar Discovery, jornadas do usuário, requisitos, arquitetura, decisões de produto e documentação de todo o ciclo de desenvolvimento.
+
+
+Meu objetivo é construir produtos que resolvam problemas reais, entreguem valor ao usuário e gerem resultados para o negócio
 
 ---
 
