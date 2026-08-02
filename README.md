@@ -1,4 +1,4 @@
-![Leonardo Machado Banner](https://github.com/leomachadodev/leomachadodev/raw/main/9127f5ed-3586-4a91-8378-01f83e3e0935.jfif)
+![Leonardo Machado Banner](9127f5ed-3586-4a91-8378-01f83e3e0935.jfif)
 
 # 👋 Leonardo Machado
 
